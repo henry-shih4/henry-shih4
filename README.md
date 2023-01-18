@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @henry-shih4
-- 👀 I’m interested in front end web development.
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 👀 I’m interested in front end and fullstack web development.
 - 💞️ I’m looking to collaborate on any cool projects!
 - 📫 How to reach me ... henryshih4@gmail.com
 - My portfolio: http://henry-shih.netlify.app
